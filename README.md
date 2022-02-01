@@ -1,5 +1,7 @@
 # HumanLensClassifyingPosteriors
 
+Experiments on Bayesian analysis of human abilities to correctly classify gravitational lenses based on visual inspection.
+
 This code base is using the Julia Language and [DrWatson](https://juliadynamics.github.io/DrWatson.jl/stable/)
 to make a reproducible scientific project named
 > HumanLensClassifyingPosteriors
